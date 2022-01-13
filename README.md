@@ -1,2 +1,1 @@
-# ics414s22-team1.github.io
-University of Hawaii at Manoa Spring 2022. ICS 414 Team One's group project. 
+This repo contains the documentation for ics414s22-team1. See [index.md](index.md) for the source, or go to [https://ics414s22-team1.github.io/](https://ics414s22-team1.github.io/).
